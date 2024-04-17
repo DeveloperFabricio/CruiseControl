@@ -35,7 +35,7 @@
 - ☑ Confirmação de Reserva (Email + Google Agenda).
 - ☑ Background Service rodando e notificando no dia anterior.
 - ☑ Autenticação e Autorização.
-- ☑ Assas como meio de pagamento.
+- ☑ Asaas como meio de pagamento.
   
 
 ### Tecnologias utilizadas 💡
@@ -47,7 +47,7 @@
 - Mensageria com RabbitMQ.
 - API Gmail
 - API Google Calendar
-- API Assas 
+- API Asaas 
 
 ### Padrões, conceitos e arquitetura utilizada 📂
 
