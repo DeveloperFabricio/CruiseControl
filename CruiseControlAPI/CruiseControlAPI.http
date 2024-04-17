@@ -1,0 +1,6 @@
+@CruiseControlAPI_HostAddress = http://localhost:5082
+
+GET {{CruiseControlAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

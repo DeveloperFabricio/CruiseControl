@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseControlAPI", "CruiseControlAPI\CruiseControlAPI.csproj", "{50A6F939-6B7F-4C03-9C47-570A24A720EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseControl.Core", "CruiseControl.Core\CruiseControl.Core.csproj", "{EB2186AE-4C9F-49E0-9738-41AFB402B4C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseControl.Infrastructure", "CruiseControl.Infrastructure\CruiseControl.Infrastructure.csproj", "{668B469E-D392-44BB-BDD3-1CBA6CBFBF22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseControl.Application", "CruiseControl.Application\CruiseControl.Application.csproj", "{CDA9BEAA-CD37-4DBB-B854-DFF258A8456F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruiseControl.UnitTests", "CruiseControl.UnitTests\CruiseControl.UnitTests.csproj", "{07B2976B-EBE1-44F4-BC00-447EEF6092DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmailTemplates", "EmailTemplates", "{BAF41823-4A08-4338-821F-3B47BA7CBC37}"
+	ProjectSection(SolutionItems) = preProject
+		ReservaCarroEmailTemplate.html = ReservaCarroEmailTemplate.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A6F939-6B7F-4C03-9C47-570A24A720EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A6F939-6B7F-4C03-9C47-570A24A720EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A6F939-6B7F-4C03-9C47-570A24A720EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A6F939-6B7F-4C03-9C47-570A24A720EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2186AE-4C9F-49E0-9738-41AFB402B4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2186AE-4C9F-49E0-9738-41AFB402B4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2186AE-4C9F-49E0-9738-41AFB402B4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2186AE-4C9F-49E0-9738-41AFB402B4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668B469E-D392-44BB-BDD3-1CBA6CBFBF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B469E-D392-44BB-BDD3-1CBA6CBFBF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668B469E-D392-44BB-BDD3-1CBA6CBFBF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668B469E-D392-44BB-BDD3-1CBA6CBFBF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA9BEAA-CD37-4DBB-B854-DFF258A8456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA9BEAA-CD37-4DBB-B854-DFF258A8456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA9BEAA-CD37-4DBB-B854-DFF258A8456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA9BEAA-CD37-4DBB-B854-DFF258A8456F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B2976B-EBE1-44F4-BC00-447EEF6092DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B2976B-EBE1-44F4-BC00-447EEF6092DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B2976B-EBE1-44F4-BC00-447EEF6092DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B2976B-EBE1-44F4-BC00-447EEF6092DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4D2EAE-0317-4E1D-8D42-B58C68964C27}
+	EndGlobalSection
+EndGlobal
