@@ -23,7 +23,7 @@
 ### Envio de Emails: O sistema pode enviar emails de confirmação de reservas, lembretes de pagamento e outras notificações aos clientes.
 
 
-### Funcionalidades 🖥️  ☑ (Concluído) 
+### Funcionalidades 🖥️ 
 
 
 - ☑ CRUD Carro
