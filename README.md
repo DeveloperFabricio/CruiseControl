@@ -31,7 +31,7 @@
 - ☑ CRUD Custo
 - ☑ CRUD Pagamentos
 - ☑ CRUD Reservas
-- ☑ CRUDNotificação
+- ☑ CRUD Notificação 
 - ☑ Confirmação de Reserva (Email + Google Agenda).
 - ☑ Background Service rodando e notificando no dia anterior.
 - ☑ Autenticação e Autorização.
