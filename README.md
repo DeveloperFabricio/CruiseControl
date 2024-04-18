@@ -4,7 +4,7 @@
 
 ### Este projeto é uma API Web que implementa um sistema de Locação de Carros.
 
-### Regras do Negócio.
+### Regras do Negócio  📏
 
 ### Cadastro de Clientes: Os clientes podem se cadastrar no sistema, fornecendo informações como nome, endereço, número de telefone, etc.
 
